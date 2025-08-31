@@ -29,7 +29,7 @@ docker node ls
 ```
 
 ###Решение 1.
-![answer1][./img/6.1.png]
+![answer1](./img/6.1.png)
 
 ## Задача 2 (*) (необязательное задание *).
 1.  Задеплойте ваш python-fork из предыдущего ДЗ(05-virt-04-docker-in-practice) в получившийся кластер.
@@ -47,8 +47,8 @@ docker node ls
 Иначе вернитесь к выполнению задания после прохождения модулей "terraform" и "ansible".
 
 ###Решение 3.
-![answer1][./img/6.3.1.png]
-![answer1][./img/6.3.2.png]
+![answer1](./img/6.3.1.png)
+![answer1](./img/6.3.2.png)
 
 
 
